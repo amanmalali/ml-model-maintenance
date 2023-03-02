@@ -1,12 +1,6 @@
 # ML Model Maintenance 
 This is the project website for the predictive ML model maintenance project at the DREAM Lab, University of Massachusetts Amherst. 
 
-Example project pages built using this template are:
-- https://www.vision.huji.ac.il/deepsim/
-- https://www.vision.huji.ac.il/3d_ads/
-- https://www.vision.huji.ac.il/ssrl_ad/
-- https://www.vision.huji.ac.il/conffusion/
-
 ## Acknowledgments
 Parts of this project page were adopted from the [Nerfies](https://nerfies.github.io/) page.
 
